@@ -1,0 +1,172 @@
+What are fundamental programming concepts?
+
+Fundamental programming concepts include a set of basic principles and related
+ terminologies that programmers follow to write code that is simple to understand, modular, 
+and efficient. The basic programming concepts include variables, basic control structures, 
+data structures, object-oriented programming, troubleshooting and debugging, and various 
+programming tools. These concepts are similar across various programming languages, such 
+as Python, C++, C, and Java.
+
+6 fundamental programming concepts
+The following are six basic programming concepts:
+
+1. Variable declaration
+
+Variables are containers for storing values. The variable declaration indicates that the
+ operating system is going to reserve a piece of memory with that variable name.
+ You can define a variable with alphabets, digits, and underscores.
+ Variable names can start with an alphabet or an underscore but cannot start with a digit.
+ Some variable types across several programming languages are:
+
+Constant variable: You can use constant variables to store data whose value doesn't change throughout
+ the program.
+
+Global variable: You can declare global variables outside a function.
+  These variables are accessible throughout the program.
+
+Class variable: You can access class variables within a specified class. 
+These variables are accessible by specifying their class names.
+
+Instance variable: You can declare instance variables inside a class but outside a method.
+ These variables are accessible throughout the class in which you've declared them.
+
+Local variable: You can declare local variables in classes, methods, or instances.
+ You can access these variables only within the specified class or method.
+
+2. Control structures
+
+         A control structure specifies the flow of control in a program. 
+Analyzing certain parameters and conditions determines the flow direction of a program. 
+Control structures make it easier to understand a flow of logic when developing algorithms 
+or writing programs. There are three basic types of control structures:
+
+
+Sequential logic: The flow of a program executes in a specific order without skipping, jumping,
+ or switching to another block of code.
+
+Selection logic: A condition determines whether a block of code gets executed or skipped. 
+Common examples include if and else-if.
+
+Iteration logic: A block of code repeats a fixed number of times to achieve the desired result.
+ Common examples include for and while loop.
+
+Related: How to List Computer Programming Skills on Your Resume
+
+3. Data structures
+A data structure provides an effective way to store and retrieve data.
+ There are various data structures that computer programmers can use to complete tasks and run 
+applications. These are some common data structures used in software development:
+
+Arrays: Arrays organize data by storing similar elements together and using contiguous memory
+ allocation. You can use arrays to store an ordered list of items.
+
+Stacks: Stacks are linear structures that follow a last-in, first-out (LIFO) order for
+ executing operations. You can use stacks to implement backtracking algorithms.
+
+Queues: The queue is a linear structure that follows a first-in, first-out (FIFO) order
+ for executing operations. You can use them in mail queues, CPU scheduling, and first-come,
+ first-serve (FCFS) scheduling.
+
+Linked lists: Linked lists are linear data structures that use pointers to link elements as
+ opposed to contiguous memory locations. You can use them to implement stacks, queues, and graphs.
+
+Binary trees: Binary trees are non-linear structures that contain nodes that have two possible 
+values or directions. You can use binary trees to represent hierarchy and determine structural
+ relationships in data.
+
+Graphs: Graphs contain nodes and edges connected to one another. You can use these data structures
+ to study maps, resource allocation in operating systems, and social media networks.
+
+4. Object-oriented programming
+Object-oriented programming is based on the concept of objects and classes where an object may
+ contain data in the form of attributes and methods. Classes are user-defined blueprints or 
+prototypes from which you can create objects. For example, consider a class that represents a person.
+ The person class contains attributes such as name, date of birth, blood group, nationality, gender,
+ and height. You can then use this class as a blueprint to create objects where each object would
+ represent a different person with a unique set of attributes. Some important concepts in object-oriented
+ programming include:
+
+Encapsulation: Encapsulation is the binding of data elements, such as variables and properties
+ and member methods, into one unit.
+
+Abstraction: This enables you to hide specific details about a class and provide only essential
+ information to the outside world. For example, the working mechanism of a web server is unknown
+ to the end-user, who clicks on a button and receives the required information.
+
+Inheritance: This is the ability to create a new class from an existing class. For example, you 
+can create a child class which inherits all the properties of its parent class and has its own set of 
+additional properties and methods.
+
+Polymorphism: Using polymorphism, you can access objects of different types using the same interface
+ where each object provides its own implementation.
+
+5. Debugging
+
+Debugging is the process of removing errors from computer programs that allow software development
+ and engineering teams to produce functioning software. Through debugging, they can examine 
+individual sections of code to ensure that the program works as intended. 
+Below is a list of possible programming errors:
+
+Syntax error
+A syntax error occurs when there is an erroneous sequence of characters or tokens in the code that 
+doesn't follow the syntax of a programming language. These may include indentation errors, missing
+ brackets, extra commas, and misspelt commands. Programming tools detect these errors at compile 
+
+time and display the line number and type of error, along with the error description. 
+You can review the error description and modify the code so that it follows the right syntax.
+
+Logical errors
+A logical error occurs when there is a flaw in the algorithm or logic of the code, 
+which either halts the execution of a program or produces a wrong output. 
+You encounter logical errors only during run-time since there are no errors in the code's syntax. 
+For example, wrongly initializing a variable can cause a logical error in the code.
+
+Latent errors
+Latent errors, also known as hidden errors, arise when you use a specific set of data as input to
+
+ the program. When you forget to account for an outlier or edge case, a program can fail or produce 
+incorrect results. For example, you may have created a program that accepts users' dates of birth but 
+does not account for characters or negative numbers an end-user may enter incorrectly. 
+Here, the program may either halt its execution or crash.
+
+Related: Understanding the Difference Between Coding vs. Programming
+6. Programming tools
+Integrated development environments (IDEs) are applications that allow programmers to write,
+ compile, and execute code. IDEs provide a central interface that contains tools which facilitate
+ code completion, code compilation, debugging, and syntax highlighting. 
+Some IDEs also allow you to add plugins, enabling you to navigate the framework codebase and 
+add your custom classes and features. You can use IDEs for:
+
+Writing code: You can use IDEs to write and edit program code to complete a set of tasks.
+Compiling code: IDEs compile code by translating human-readable code to a format that is 
+understandable by the computer.
+Debugging code: IDEs help you detect errors in a code and make fixes.
+Monitoring resources: You can monitor various parameters such as disk space, resource 
+consumption, memory usage, free space on the disk, and cache memory, which help you 
+optimize your code to run faster and more efficiently.
+Building automation tools: Some IDEs also provide automated tools for development tasks.
+Some examples of IDEs include PyCharm, Android Studio, Coda, and Eclipse.
+
+
+
+
+
+
+Take additional courses. Consider taking additional courses to enhance your programming skills
+ and credential in the IT field. Training courses include practice tests, quizzes, and capstone
+ projects that can help improve your skills.
+View source-code. It's a good practice to review the source code of modules to gain insight into
+ their design structure and implementation procedure. This assists you in designing your own 
+custom module for a program.
+Work on mini-projects. By working on end-to-end projects, you get to learn the overall structure 
+of a program, along with best coding practices and optimization techniques. 
+A project involves various phases, such as the collection of data, preparing the data for analysis,
+ developing the algorithm, testing the code, and deploying it.
+Take part in coding competitions. Competitive coding can enhance your algorithmic skills and 
+problem-solving abilities. You can also learn more about data structures and discrete mathematics
+ through competitive coding.
+Follow other programmers. You can also review the code-base of other programmers on various 
+platforms, such as GitHub or Kaggle. This allows you to improve your programming skills and 
+stay updated with the latest IT developments.
+Please note that none of the companies, institutions, or organizations mentioned in this article
+ are affiliated with Indeed.
